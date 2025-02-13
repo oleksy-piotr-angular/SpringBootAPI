@@ -1,6 +1,6 @@
 package dev.spring_boot_web_API.runnerz.user;
 
-public record Adress(
+public record Address(
         String street,
         String suite,
         String city,

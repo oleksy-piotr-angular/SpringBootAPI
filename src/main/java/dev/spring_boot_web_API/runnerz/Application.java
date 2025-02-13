@@ -36,8 +36,11 @@ public class Application {
         return args -> {
 
             List<User> users = client.findAll();
+            System.out.println("\nList of Users:");
             System.out.println(users);
+            System.out.println("++++++++++++++++++++++++++++++++++++++++++++++");
 
+            System.out.println("User with id 1:");
             User user = client.findById(1);
             System.out.println(user);
         };

@@ -2,10 +2,10 @@ package dev.spring_boot_web_API.runnerz.user;
 
 public record User(
         Integer id,
-String name,
+        String name,
         String username,
         String email,
-        Adress adress,
+        Address address,
         String phone,
         String website,
         Company company
