@@ -2,7 +2,7 @@
 
 This is an example of a Spring Boot API that uses a PostgreSQL database. 
 
-This API is a simple CRUD API that allows you to create, read, update, and delete Run data 
+This API is a simple CRUD API that allows you to create, read, update, and delete "Run" data 
 structure. 
 
 There was used a Docker compose.yml file to simplify a DataBase creation in Development mode.
