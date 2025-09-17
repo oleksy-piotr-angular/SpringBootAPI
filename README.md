@@ -2,6 +2,10 @@
 
 Welcome to **SpringBootAPI** – a robust, production-ready RESTful service built with Spring Boot and PostgreSQL.
 
+#branches:
+-master
+-testing
+
 ## 🚀 Overview
 
 This project demonstrates a complete CRUD API for managing `Run` entities. Designed for easy local development and real-world integration, it showcases best practices for connectivity, containerization, and code quality.
